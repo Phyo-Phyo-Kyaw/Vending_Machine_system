@@ -1,0 +1,1 @@
+{"version":1,"defects":{"ProductsControllerTest::testCreateProductSuccess":8,"ProductsControllerTest::testCreateProductValidationFails":8,"ProductsControllerTest::testDeleteProductSuccess":8,"ProductsControllerTest::testDeleteProductNotFound":8,"ProductsControllerTest::testPurchaseProductSuccess":8,"ProductsControllerTest::testPurchaseProductFails":8},"times":[]}
